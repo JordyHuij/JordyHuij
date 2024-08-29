@@ -10,7 +10,7 @@
   <a href="https://www.linkedin.com/in/jordy-huijgens-319406250">
     <img align="left" alt="Jordy's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/linkedin.svg" />
   </a>
-  <a href="mailto:jordy.huijgens@outlook.com">
+  <a href="mailto:jordy.huijgens@fujifilm.com">
     <img align="left" alt="GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
   </a>
   <a href="https://instagram.com/jordydepordie">
