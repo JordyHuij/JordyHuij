@@ -9,8 +9,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&redirect=true)
 
-<p><samp>lets <b>embark</b> on this journey together</samp></p>
+<p><samp>lets <b>embark</b> on this journey together,</samp></p>
 
+<p><samp>Love,</samp></p>
 <p align="left"><img src="https://github.com/JordyHuij/JordyHuij/blob/main/output.png?raw=true" width="200"></p>
 
 <p><samp><b>Jordy</b></samp></p>
