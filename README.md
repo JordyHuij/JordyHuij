@@ -9,7 +9,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&redirect=true)
 
-<p><samp>lets <b>embark</b> on this journey together</samp></p>
+<p><samp>lets <b>embark</b> on this journey together</samp>	:copyright:</p>
+
+:red_circle::white_circle::large_blue_circle::netherlands:
 
 
 <hr>
@@ -24,5 +26,5 @@
     <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
 </p>
-:three:	:zero::male_sign:	:cancer:
+
 
