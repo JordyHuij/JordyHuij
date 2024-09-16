@@ -11,7 +11,7 @@
 
 <p><samp>lets <b>embark</b> on this journey together</samp></p>
 
-<p><samp><b>Jordy</b></samp>	:copyright:</p>
+<p><samp><b>Jordy</b></samp></p>
 
 <hr>
 <p>
