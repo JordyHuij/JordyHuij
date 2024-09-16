@@ -11,6 +11,8 @@
 
 <p><samp>lets <b>embark</b> on this journey together</samp></p>
 
+<p align="left"><img src="https://github.com/JordyHuij/JordyHuij/blob/main/output.png?raw=true" width="200"></p>
+
 <p><samp><b>Jordy</b></samp></p>
 
 <hr>
