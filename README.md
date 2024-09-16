@@ -1,3 +1,5 @@
+:red_circle::white_circle::large_blue_circle:
+
 <p align="left"><a href="https://laravel.com" target="_blank"><img src="https://media1.tenor.com/m/bzhPO4Ti0bkAAAAC/shiba-inu.gif" width="200" alt="Laravel Logo"></a></p>
 
 
@@ -11,7 +13,7 @@
 
 <p><samp>lets <b>embark</b> on this journey together</samp>	:copyright:</p>
 
-:red_circle::white_circle::large_blue_circle::netherlands:
+:netherlands:
 
 
 <hr>
