@@ -9,7 +9,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&redirect=true)
 
-<p><samp>lets em<b>bark</b> on this journey together,</samp></p>
+<p><samp>lets em<b>bark</b> on this journey together</samp></p>
 <hr>
 <p>
   <a href="https://www.linkedin.com/in/jordy-huijgens-319406250">
