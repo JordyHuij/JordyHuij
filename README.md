@@ -13,7 +13,6 @@
 
 <p><samp>lets <b>embark</b> on this journey together</samp>	:copyright:</p>
 
-:netherlands:
 
 
 <hr>
