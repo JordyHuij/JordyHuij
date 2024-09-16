@@ -1,5 +1,3 @@
-:red_circle::white_circle::large_blue_circle:
-
 <p align="left"><a href="https://laravel.com" target="_blank"><img src="https://media1.tenor.com/m/bzhPO4Ti0bkAAAAC/shiba-inu.gif" width="200" alt="Laravel Logo"></a></p>
 
 
@@ -11,9 +9,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&redirect=true)
 
-<p><samp>lets <b>embark</b> on this journey together</samp>	:copyright:</p>
+<p><samp>lets <b>embark</b> on this journey together</samp></p>
 
-
+<p><samp><b>Jordy</b></samp>	:copyright:</p>
 
 <hr>
 <p>
