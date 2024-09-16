@@ -22,7 +22,3 @@
     <img align="left" alt="Felipe's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/instagram.svg" />
   </a>
 </p>
-
-
-### Top Languages
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JordyHuij&layout=compact)
