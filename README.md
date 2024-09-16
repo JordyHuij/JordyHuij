@@ -5,7 +5,7 @@
 <p><samp>I'm a <b>full stack developer</b> from Halsteren, <b>The Netherlands</b>.</samp></p>
 <p><samp>I'm passionate about <b>App development</b>, <b>Web Development</b> and <b>Game development</b>.</samp></p>
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI](https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo))
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)]([https://open.spotify.com/track/1H5tvpoApNDxvxDexoaAUo])
 
 <hr>
 <p>
