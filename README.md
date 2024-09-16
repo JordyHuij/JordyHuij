@@ -6,6 +6,7 @@
 <p><samp>I'm passionate about <b>App development</b>, <b>Web Development</b> and <b>Game development</b>.</samp></p>
 <hr>
 <p><samp>Im listening to:</samp></p>
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=1159736333&redirect=true)
 
 
